@@ -1,5 +1,5 @@
 {
-  "name": "my-test-package",
+  "name": "test-react-package",
   "version": "1.0.0",
   "description": "My test package",
   "main": "dist/index.js",
