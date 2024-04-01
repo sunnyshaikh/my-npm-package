@@ -6,7 +6,7 @@ export default defineConfig({
   output: {
     dir: "dist",
     format: "es",
-    name: "test-react-package",
+    name: "sunny-react-package",
   },
   external: ["react", "react-dom"],
   plugins: [typescript({ tsconfig: "tsconfig.json" })],
