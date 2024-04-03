@@ -6,6 +6,8 @@
     "declarationDir": "./dist",
     "strict": true,
     "jsx": "react",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "moduleDetection": "auto",
+    "moduleResolution": "node"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "sunny-react-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My test package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,5 +22,11 @@
     "react-dom": "^18.2.0",
     "rollup": "^4.13.2",
     "tslib": "^2.6.2"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.14",
+    "notistack": "^3.0.1"
   }
 }
