@@ -5,4 +5,4 @@ const MuiButton = () => {
   return <Button>Mui Button</Button>;
 };
 
-export default MuiButton;
+export { MuiButton };
