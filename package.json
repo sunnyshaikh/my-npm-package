@@ -1,6 +1,6 @@
 {
   "name": "sunny-react-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My test package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
