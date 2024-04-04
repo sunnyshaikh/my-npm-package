@@ -7,7 +7,6 @@
     "strict": true,
     "jsx": "react",
     "allowSyntheticDefaultImports": true,
-    "moduleDetection": "auto",
     "moduleResolution": "node"
   }
 }
