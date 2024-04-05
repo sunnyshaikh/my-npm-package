@@ -18,12 +18,12 @@
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.2.73",
+    "notistack": "^3.0.1",
     "postcss": "^8.4.38",
     "postcss-preset-env": "^9.5.4",
     "rollup": "^4.13.2",
     "rollup-plugin-postcss": "^4.0.2",
-    "tslib": "^2.6.2",
-    "notistack": "^3.0.1"
+    "tslib": "^2.6.2"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
