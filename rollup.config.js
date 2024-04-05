@@ -8,8 +8,15 @@ export default defineConfig({
     dir: "dist",
     format: "es",
     name: "sunny-react-package",
+    sourcemap: true,
   },
-  external: ["react", "react-dom"],
+  external: [
+    "react",
+    "react-dom",
+    "@mui/material/styles",
+    "@mui/material",
+    "notistack",
+  ],
   plugins: [
     typescript({ tsconfig: "tsconfig.json" }),
     postcss({
